@@ -4,4 +4,5 @@
 * lemon
 * garlic
 * tahini
+* olive oil
 ## Instructions
